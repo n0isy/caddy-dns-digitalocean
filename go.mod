@@ -1,4 +1,4 @@
-module github.com/xnok/caddy-dns-digitalocean
+module github.com/caddy-dns/digitalocean
 
 go 1.23
 
